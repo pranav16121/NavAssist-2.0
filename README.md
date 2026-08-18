@@ -105,17 +105,21 @@ flowchart TD
 
 ## Screenshots
 
-No actual screenshot assets are currently committed in this repository.
+### Home
+![NavAssist Home](assets/screenshots/home.jpg)
 
-The expected files are:
+### ML Kit Perception
+![ML Kit Perception](assets/screenshots/perception.jpg)
 
-- `assets/screenshots/home.png`
-- `assets/screenshots/perception.png`
-- `assets/screenshots/map_builder.png`
-- `assets/screenshots/navigation.png`
-- `assets/screenshots/settings.png`
+### Map Builder
+![Map Builder](assets/screenshots/map_builder.jpg)
 
-Add these manually from a real device or emulator before publishing. Do not generate fake screenshots.
+### Navigation
+![Navigation](assets/screenshots/navigation.jpg)
+
+### Settings
+![Settings](assets/screenshots/settings.jpg)
+
 ## Current Status
 
 Status summary:
