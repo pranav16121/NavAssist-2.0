@@ -9,7 +9,6 @@ A compact, voice-first indoor awareness prototype for visually impaired users.
 
 ---
 
-Hero
 
 - WHAT IT IS — An Android-first Flutter prototype that combines live camera perception, simple local mapping, sensor-driven motion estimates, and spoken guidance.
 - WHY IT MATTERS — Helps explore how low-cost mobile devices can provide contextual environmental awareness to increase independence for users with visual impairments.
