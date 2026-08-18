@@ -187,7 +187,7 @@ The app requests camera, microphone, and activity recognition permissions at run
 
 ## Disclaimer
 
-NavAssist 2.0 is a research and prototype assistive technology project. It is intended for exploration, academic evaluation, and portfolio demonstration. It should not be relied on as a primary safety or navigation system in real-world environments.
+NavAssist 2.0 is a research and prototype assistive technology project. It is intended for exploration, academic evaluation, and portfolio demonstration.
 
 ## Author
 
