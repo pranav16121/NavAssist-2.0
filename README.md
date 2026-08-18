@@ -116,7 +116,6 @@ The expected files are:
 - `assets/screenshots/settings.png`
 
 Add these manually from a real device or emulator before publishing. Do not generate fake screenshots.
-
 ## Current Status
 
 Status summary:
