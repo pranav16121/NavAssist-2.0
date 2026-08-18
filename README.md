@@ -105,17 +105,20 @@ flowchart TD
 
 ## Screenshots
 
-No actual screenshot assets are currently committed in this repository.
+### Home
+![NavAssist Home](assets/screenshots/home.jpg)
 
-The expected files are:
+### ML Kit Perception
+![ML Kit Perception](assets/screenshots/perception.jpg)
 
-- `assets/screenshots/home.png`
-- `assets/screenshots/perception.png`
-- `assets/screenshots/map_builder.png`
-- `assets/screenshots/navigation.png`
-- `assets/screenshots/settings.png`
+### Map Builder
+![Map Builder](assets/screenshots/map_builder.jpg)
 
-Add these manually from a real device or emulator before publishing. Do not generate fake screenshots.
+### Navigation
+![Navigation](assets/screenshots/navigation.jpg)
+
+### Settings
+![Settings](assets/screenshots/settings.jpg)
 
 ## Current Status
 
@@ -184,7 +187,7 @@ The app requests camera, microphone, and activity recognition permissions at run
 
 ## Disclaimer
 
-NavAssist 2.0 is a research and prototype assistive technology project. It is intended for exploration, academic evaluation, and portfolio demonstration. It should not be relied on as a primary safety or navigation system in real-world environments.
+NavAssist 2.0 is a research and prototype assistive technology project. It is intended for exploration, academic evaluation, and portfolio demonstration.
 
 ## Author
 
