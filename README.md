@@ -117,21 +117,6 @@ Important: localization is approximate and relies on step-count assumptions. Thi
 - Voice-first instruction delivery (Android TTS)
 - Simplified flows to reduce cognitive load for users
 
-## 9 — System architecture
-
-```mermaid
-flowchart LR
-  UI[Flutter UI]
-  Services[Flutter Services]
-  Native[Android Native]
-  UI --> Services
-  Services --> Native
-  Services --> LocalStorage[Local JSON maps]
-  Native --> CameraX[CameraX + ImageAnalysis]
-  CameraX --> MLKit[Google ML Kit]
-  Native --> Sensors[SensorManager (steps/heading)]
-  Native --> Voice[VoiceManager (TTS/Recognition)]
-```
 
 ## 10 — Technology stack
 
@@ -211,13 +196,13 @@ navassist_2/
 ## 18 — Author
 
 Pranav Powell
-Engineering Student | AI | Embedded Systems | Assistive Technology
+Engineering Student (Electronics & Communications) | Assistive Technology | Application Developement
 https://github.com/pranav16121
 
 ## 19 — Disclaimer
 
-NavAssist 2.0 is a research and portfolio prototype. It should not be relied upon as a primary safety-critical navigation system.
+NavAssist 2.0 is a research and portfolio prototype.
 
 ---
 
-If you want a shorter landing README or an expanded `docs/` site (technical deep-dive, API, or slides export), say which parts to expand and I will add them to `docs/` while keeping source files unchanged.
+
